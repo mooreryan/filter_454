@@ -1,0 +1,10 @@
+[package]
+name = "filter_454"
+version = "0.1.0"
+authors = ["Ryan Moore <moorer@udel.edu>"]
+edition = "2018"
+
+[dependencies]
+bio = "0.25.0"
+structopt = "0.2.10"
+statrs = "0.10.0"
